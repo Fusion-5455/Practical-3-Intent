@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="reg_no">Registration No.</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="registration_no">Registration No..</string>
+
+</resources>
